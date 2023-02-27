@@ -1,0 +1,76 @@
+作者,年份,文章信息,样本量,
+QinJ,2012,A metagenome-wide association study of gut microbiota in type 2 diabetes,370,QinJ_2012
+QinN,2014,Alterations of the human gut microbiome in liver cirrhosis,314,QinN_2014
+BackhedF,2015,Dynamics and Stabilization of the Human Gut Microbiome during the First Year of Life,400,BackhedF_2015
+HMP,2012,"Structure,function and diversity of the healthy human microbiome",147,HMP_2012
+NielsenHB,2014,Identification and assembly of genomes and genetic elements in complex metagenomic samples without using reference genomes,852,NielsenHB_2014
+HansenLBS,2018,A low-gluten diet induces changes in the intestinal microbiome of healthy Danish adults,207,HansenLBS_2018
+LiJ,2014,An integrated catalog of reference genes in the human gut microbiome,287,LiJ_2014
+VatanenT,2016,Variation in Microbiome LPS Immunogenicity Contributes to Autoimmunity in Humans,786,VatanenT_2016
+HMP_IBD,,,1338,HMP_IBD
+LeChatelierE,2013,Richness of human gut microbiome correlates with metabolic markers,595,LeChatelierE_2013
+XieH,2016,Shotgun Metagenomics of 250 Adult Twins Reveals Genetic and Environmental Impacts on the Gut Microbiome,250,XieH_2016
+JieZ,2017,The gut microbiome in atherosclerotic cardiovascular disease,385,JieZ_2017
+MehtaRS,2018,Stability of the human faecal microbiome in a cohort of adult men,927,MehtaRS_2018
+WangX,2020,Aberrant gut microbiota alters host metabolome and impacts renal failure in humans and rodents.,292,WangX_2020
+ZeeviD,2015,Personalized Nutrition by Prediction of Glycemic Responses,1303,ZeeviD_2015
+ShaoY,2019,Stunted microbiota and opportunistic pathogen colonization in caesarean-section birth,1679,ShaoY_2019
+BrooksB,2017,Strain-resolved analysis of hospital rooms and infants reveals overlap between the human and room microbiome,408,BrooksB_2017
+CosteaPI,2017,Towards standards for human fecal sample processing in metagenomic studies,277,CosteaPI_2017
+YachidaS,2019,Metagenomic and metabolomic analyses reveal distinct stage-specific phenotypes of the gut microbiota in colorectal cancer,645,YachidaS_2019
+BritoIL,2016,Mobile genes in the human microbiome are structured from global to individual scales,172,BritoIL_2016
+AsnicarF,2021,"Microbiome connections with host metabolism and habitual diet from 1,098 deeply phenotyped individuals",1098,AsnicarF_2021
+AsnicarF,2017,Studying Vertical Microbiome Transmission from Mothers to Infants by Strain-Level Metagenomic Profiling,16,AsnicarF_2017
+DavidLA,2015,Gut Microbial Succession Follows Acute Secretory Diarrhea in Humans,47,DavidLA_2015
+GuptaA,2019,A predictive index for health status using species-level gut microbiome profiling,60,GuptaA_2019
+GopalakrishnanV,2018,Gut microbiome modulates response to anti鈥揚D-1 immunotherapy in melanoma patients,25,GopalakrishnanV_2018
+RampelliS,2015,Metagenome Sequencing of the Hadza Hunter-Gatherer Gut Microbiota,38,RampelliS_2015
+KieserS,2018,"Bangladeshi children with acute diarrhoea show faecal microbiomes with increased?Streptococcus?abundance, irrespective of diarrhoea aetiology",27,KieserS_2018
+DhakanDB,2019,"The unique composition of Indian gut microbiome,gene catalogue,and associated fecal metabolome deciphered using multi-omics approaches",110,DhakanDB_2019
+OlmMR,2017,"Identical bacterial populations colonize premature infant gut, skin, and oral microbiomes and exhibit different in situ growth rates",37,OlmMR_2017
+LomanNJ,2013,A Culture-Independent Sequence-Based Metagenomics Approach to the Investigation of an Outbreak of Shiga-Toxigenic Escherichia coli O104:H4,42,LomanNJ_2013
+YassourM,2016,Sub-clinical detection of gut microbial biomarkers of obesity and type 2 diabetes,54,YassourM_2016
+NagySzakalD,2017,Fecal metagenomic profiles in subgroups of patients with myalgic encephalomyelitis/chronic fatigue syndrome,43,NagySzakalD_2017
+SankaranarayananK,2015,Gut microbiome diversity among Cheyenne and Arapaho individuals from western Oklahoma,34,SankaranarayananK_2015
+DefilippisF,2019,Distinct Genetic and Functional Traits of Human Intestinal Prevotella copri Strains Are Associated with Different Habitual Diets,13,DefilippisF_2019_ext
+TettAJb,2019,The Prevotella copri Complex Comprises Four Distinct Clades Underrepresented in Westernized Populations.,44,TettAJb_2019
+HanniganGD,2017,Evolutionary and functional implications of hypervariable loci within the skin virome.,675,HanniganGD_2017
+Heitz-BuschartA,2016,Integrated multi-omics of the human gut microbiome in a case study of familial type 1 diabetes,53,Heitz-BuschartA_2016
+WampachL,2018,Birth mode is associated with earliest strain-conferred gut microbiome functions and immunostimulatory potential,79,WampachL_2018
+LouisS,2016,Characterization of the Gut Microbial Community of Obese Patients Following a Weight-Loss Intervention Using Whole Metagenome Shotgun Sequencing,92,LouisS_2016
+ChuDM,2017,Maturation of the infant microbiome community structure and function across multiple body sites and in relation to mode of delivery,65,ChuDM_2017
+KaurK,2020,Metagenomics analysis reveals features unique to Indian distal gut microbiota,31,KaurK_2020
+Obergon-TitoAJ,2015,Subsistence strategies in traditional societies distinguish gut microbiomes,58,Obergon-TitoAJ_2015
+PehrssonE,2016,Interconnected microbiomes and resistomes in low-income human habitats,471,PehrssonE_2016
+TettAJc,2019,The Prevotella copri Complex Comprises Four Distinct Clades Underrepresented in Westernized Populations,52,TettAJc_2019
+WirbelJ,2019,Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal cancer,130,WirbelJ_2019
+TettAJa,2019,The Prevotella copri Complex Comprises Four Distinct Clades Underrepresented in Westernized Populations,68,TettAJa_2019
+KeohaneDM,2020,Microbiome and health implications for ethnic minorities after enforced lifestyle changes,118,KeohaneDM_2020
+KosticAD,2015,The Dynamics of the Human Infant Gut Microbiome in Development and in Progression toward Type 1 Diabetes,542,KosticAD_2015
+YeZ,2018,A metagenomic study of the gut microbiome in Behcet's disease.,65,YeZ_2018
+RubelMA,2020,Lifestyle and the presence of helminths is associated with gut microbiome composition in Cameroonians,180,RubelMA_2020
+MatsonV,2018,The commensal microbiome is associated with anti-PD-1 efficacy in metastatic melanoma patients,39,MatsonV_2018
+LokmerA,2019,Use of shotgun metagenomics for the identification of protozoa in the gut microbiota of healthy individuals from worldwide populations with various industrialization levels,57,LokmerA_2019
+RosaBA,2018,Differential human gut microbiome assemblages during soil-transmitted helminth infections in Indonesia and Liberia,34,RosaBA_2018
+LoombaR,2017,Gut Microbiome-Based Metagenomic Signature for Non-invasive Detection of Advanced Fibrosis in Human Nonalcoholic Fatty Liver Disease,86,LoombaR_2017
+FerrettiP,2018,Mother-to-Infant Microbial Transmission from Different Body Sites Shapes the Developing Infant Gut Microbiome,230,FerrettiP_2018
+ChengpingW,2017,Quantitative metagenomics reveals unique gut microbiome biomarkers in ankylosing spondylitis,97,ChengpingW_2017
+PasolliE,2019,"Extensive Unexplored Human Microbiome Diversity Revealed by Over 150,000 Genomes from Metagenomes Spanning Age, Geography, and Lifestyle",112,PasolliE_2019
+ThomasAMc,2019,Metagenomic analysis of colorectal cancer datasets identifies cross-cohort microbial diagnostic signatures and a link with choline degradation,140,ThomasAMc_2019
+KarlssonFH,2013,"Gut metagenome in European women with normal,impaired and diabetic glucose control",145,KarlssonFH_2013
+LiSS,2016,Durable coexistence of donor and recipient strains after fecal microbiota transplantation,55,LiSS_2016
+DeFilippisF,2019,Distinct Genetic and Functional Traits of Human Intestinal Prevotella copri Strains Are Associated with Different Habitual Diets,75,DeFilippisF_2019
+VogtmannE,2016,Colorectal Cancer and the Human Gut Microbiome:Reproducibility with Whole-Genome Shotgun Sequencing,441,VogtmannE_2016
+YassourM,2018,Strain-Level Analysis of Mother-to-Child Bacterial Transmission during the First Few Months of Life,286,YassourM_2018
+LiuW,2016,Unique Features of Ethnic Mongolian Gut Microbiome revealed by metagenomic analysis,110,LiuW_2016
+HMP_IBD_Pilot,,,150,HMP_IBD_Pilot
+HallAB,2017,A novel Ruminococcus gnavus clade enriched in inflammatory bowel disease patients,262,HallAB_2017
+YuJ,2015,Metagenomic analysis of faecal microbiome as a tool towards targeted non-invasive biomarkers for colorectal cancer,128,YuJ_2015
+FengQ,2015,Gut microbiome development along the colorectal adenoma-carcinoma sequence,154,FengQ_2015
+ZellerG,2014,Potential of fecal microbiota for early-stage detection of colorectal cancer,645,ZellerG_2014
+LiJ,2017,Gut microbiota dysbiosis contributes to the development of hypertension,196,LiJ_2017
+RaymondF,2016,The initial state of the human gut microbiome determines its reshaping by antibiotics,1252,RaymondF_2016
+SchirmerM,2016,Linking the Human Gut Microbiome to Inflammatory Cytokine Production Capacity,471,SchirmerM_2016
+ZhuF,2020,Metagenome-wide association of gut microbiome features for schizophrenia,171,ZhuF_2020
+Bengtsson,2015,The Human Gut Microbiome as a Transporter of Antibiotic Resistance Genes between Continents,70,Bengtsson_2015
+,,,21407,
